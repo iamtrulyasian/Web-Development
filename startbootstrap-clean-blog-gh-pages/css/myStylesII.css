@@ -1,0 +1,100 @@
+.header{
+    background-color: blueviolet;
+    background-image: url("../assets/img/Flowers.webp");
+    color: whitesmoke;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+.emphasizedText{
+    font-weight: bolder;
+    font-size: xx-large;
+    padding: 0;
+    margin-left: 25%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    text-align: center;
+}
+
+nav{
+    background-color: rgb(226, 226, 126);
+    padding: 10px;
+    overflow: hidden;
+}
+
+nav a{
+    padding: 40px;
+    font-size: x-large;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover{
+    background-color: white;
+}
+
+.specialAlignment{
+    font-weight: lighter;
+    margin-left: -3%;
+    list-style-position: outside;
+}
+
+ul{
+    margin-left: 30;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.secondMainBody{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.tableauPlaceholder{
+    text-align: center;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.footer{
+    position: fixed;
+    background-image: url("../assets/img/Flowers.webp");
+    color: whitesmoke;
+    padding-top: 0.5%;
+    bottom: 0px;
+    right: 3px;
+    left: 3px;
+    height: 25px;
+    line-height: 25px;
+    font-weight: bolder;
+    font-size: larger;
+    text-align: center;
+}
+
+.common{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
